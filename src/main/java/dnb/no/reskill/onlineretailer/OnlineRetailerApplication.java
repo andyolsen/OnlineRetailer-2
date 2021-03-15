@@ -10,5 +10,5 @@ public class OnlineRetailerApplication {
         SpringApplication.run(OnlineRetailerApplication.class, args);
     }
 
-    
+
 }
